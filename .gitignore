@@ -1,3 +1,14 @@
+
+.jupyter-server-log.txt
+.bash_logout
+.bashrc
+.cache
+.config
+.ipynb_checkpoints
+.ipython
+.jupyter-server-log.txt
+.local
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
